@@ -6,7 +6,7 @@ function callNvidiaNim() {
     messages: [
       {
         role: 'user',
-        content: "translate 日落西山你不陪,东山再起你是谁 to english with profound meaning"
+        content: "how many days are there betweeen 1st Jan 1964 and 1st Jan 2026 ?"
       }
     ],
     temperature: 0.2,
