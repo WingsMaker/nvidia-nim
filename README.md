@@ -9,7 +9,8 @@ need to register free account from and to generate api key from https://build.nv
 see <a href='https://raw.githubusercontent.com/WingsMaker/nvidia-nim/refs/heads/main/nvidia-nim.txt'>nvidia-nim.txt</a> for the script<br>
 <br>
 Test results (execution log inside google app script)<br>
-<pre>	回應內容：
+<pre>	
+回應內容：
 To calculate the number of days between 1st January 1964 and 1st January 2026:
 
 **Step 1: Count the years**
@@ -26,7 +27,8 @@ Leap years between 1964 and 2026 (inclusive of 1964, exclusive of 2026 since 202
 **Step 4: Total**
 22,630 + 16 = **22,646 days**
 
-So there are **22,646 days** between 1st January 1964 and 1st January 2026.</pre>
+So there are **22,646 days** between 1st January 1964 and 1st January 2026.
+</pre>
 <br>
 Where to store the api key<br>
 <br>
