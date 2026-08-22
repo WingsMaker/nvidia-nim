@@ -12,21 +12,16 @@ Test results (execution log inside google app script)<br>
 <pre>	
 回應內容：
 To calculate the number of days between 1st January 1964 and 1st January 2026:
-
 **Step 1: Count the years**
 2026 − 1964 = 62 years
-
 **Step 2: Calculate days for 62 years**
 - 62 × 365 = 22,630 days
-
 **Step 3: Add leap days**
 Leap years between 1964 and 2026 (inclusive of 1964, exclusive of 2026 since 2026 is not a leap year):
 1964, 1968, 1972, 1976, 1980, 1984, 1988, 1992, 1996, 2000, 2004, 2008, 2012, 2016, 2020, 2024
 = **16 leap years**
-
 **Step 4: Total**
 22,630 + 16 = **22,646 days**
-
 So there are **22,646 days** between 1st January 1964 and 1st January 2026.
 </pre>
 <br>
