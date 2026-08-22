@@ -7,7 +7,7 @@ need to register free account from and to generate api key from https://build.nv
 <br>
 Example script<br>
 <br>
-see https://raw.githubusercontent.com/WingsMaker/nvidia-nim/refs/heads/main/nvidia-nim.txt for the script<br>
+see <a href='https://raw.githubusercontent.com/WingsMaker/nvidia-nim/refs/heads/main/nvidia-nim.txt'>nvidia-nim.txt</a> for the script<br>
 <br>
 Test results (execution log inside google app script)<br>
 <br>
